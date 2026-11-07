@@ -1,0 +1,26 @@
+{
+  "name": "@nhrbuilds/optical-centering",
+  "version": "1.0.0",
+  "description": "Agent skill for measuring and fixing vertical optical imbalance between text and icons in UI: true ink-center probes and verifiable CSS corrections.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhrbuilds/optical-centering.git"
+  },
+  "author": "nhrbuilds (https://github.com/nhrbuilds)",
+  "keywords": [
+    "agent-skills",
+    "skill",
+    "css",
+    "ui",
+    "design",
+    "alignment",
+    "typography",
+    "flexbox"
+  ],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ]
+}
